@@ -13,7 +13,8 @@
 
 ## 项目结构
 
-[![vue3-ts-bili.png](https://i.postimg.cc/qqSRnXF5/vue3-ts-bili.png)](https://postimg.cc/N28BvTB6)
+[![vue3-ts-bili.png](https://i.postimg.cc/Hk4nxTjy/vue3-ts-bili.png)](https://postimg.cc/PCJTVsWX)
+
 
 ## 运行
 ### 安装node依赖包
